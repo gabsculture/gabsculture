@@ -13,11 +13,11 @@
 
 
 ## 📌 Projetos em destaque
-- 🔹 Sistema de Organização para Escritórios de Advocacia
+-  Sistema de Organização para Escritórios de Advocacia
 → JAVA, MySQL, SpringBoot, HTML, CSS e Javascript
-- 🔹 API para Gerenciamento de Irrigação
+-  API para Gerenciamento de Irrigação
 → Node.js, Adonisjs, Typescript
-- 🔹 ZordWay APP - Plataforma para correção de textos
+-  ZordWay APP - Plataforma para correção de textos
 → Javascript, HTML e CSS
 
 
