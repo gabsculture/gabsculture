@@ -1,6 +1,7 @@
 # Olá! Eu sou a Gabriela! 😄
 
-💻 Técnica em Informática para Internet pelo CTISM - UFSM e estudante de Sistemas de Informação - UFSM
+💻 Técnica em Informática para Internet pelo CTISM - UFSM 
+💻 Estudante de Sistemas de Informação - UFSM
 
 
 ## 🛠️ Tecnologias
