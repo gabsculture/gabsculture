@@ -1,7 +1,7 @@
 # Olá! Eu sou a Gabriela! 😄
-## 
 
 💻 Técnica em Informática para Internet pelo CTISM - UFSM e estudante de Sistemas de Informação - UFSM
+
 
 ## 🛠️ Tecnologias
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -11,10 +11,12 @@
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 
+
 ## 📌 Projetos em destaque
 - 🔹 Sistema de Organização para Escritórios de Advocacia - JAVA, MySQL, SpringBoot, HTML, CSS e Javascript
 - 🔹 API para Gerenciamento de Irrigação - Node.js, Adonisjs, Typescript
 - 🔹 ZordWay APP - Plataforma para correção de textos - Javascript, HTML e CSS
+
 
 
 ## 📫 Contato
