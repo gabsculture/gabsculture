@@ -25,5 +25,5 @@
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-vit%C3%B3ria-da-rosa-soares-804459261/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-vit%C3%B3ria-da-rosa-soares-804459261/) 
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:gabrielavitoriadarosasoares@gmail.com)
