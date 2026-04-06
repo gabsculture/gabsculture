@@ -11,7 +11,7 @@
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![Python 3.12+](https://img.shields.io/badge/python-3.12%2B-blue)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
 ## 📌 Projetos em destaque
 -  Sistema de Organização para Escritórios de Advocacia
 → JAVA, MySQL, SpringBoot, HTML, CSS e Javascript
