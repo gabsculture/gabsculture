@@ -3,6 +3,8 @@
 💻 Técnica em Informática para Internet pelo CTISM - UFSM  
 💻 Estudante de Sistemas de Informação - UFSM
 
+## 💻 Interesses
+Engenharia de Dados, Cloud Computing, Desenvolvimento Back-end
 
 ## 🛠️ Tecnologias
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
